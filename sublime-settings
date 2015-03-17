@@ -1,0 +1,29 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"draw_white_space": "all",
+	"font_face": "Monaco",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		""
+	],
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"spell_check": false,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": false,
+	"show_line_endings": true,
+	"default_line_ending": "unix",
+	"highlight_line": true
+}
+
